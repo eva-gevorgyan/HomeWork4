@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\bin\Debug\net6.0\DelGen.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\bin\Debug\net6.0\DelGen.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\bin\Debug\net6.0\DelGen.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\bin\Debug\net6.0\DelGen.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\bin\Debug\net6.0\DelGen.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\obj\Debug\net6.0\DelGen.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\obj\Debug\net6.0\DelGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\obj\Debug\net6.0\DelGen.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\obj\Debug\net6.0\DelGen.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\obj\Debug\net6.0\DelGen.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\obj\Debug\net6.0\DelGen.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\obj\Debug\net6.0\refint\DelGen.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\obj\Debug\net6.0\DelGen.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\obj\Debug\net6.0\DelGen.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelGen\DelGen\obj\Debug\net6.0\ref\DelGen.dll

@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\bin\Debug\net6.0\DelegatGenerics.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\bin\Debug\net6.0\DelegatGenerics.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\bin\Debug\net6.0\DelegatGenerics.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\bin\Debug\net6.0\DelegatGenerics.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\bin\Debug\net6.0\DelegatGenerics.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\obj\Debug\net6.0\DelegatGenerics.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\obj\Debug\net6.0\DelegatGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\obj\Debug\net6.0\DelegatGenerics.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\obj\Debug\net6.0\DelegatGenerics.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\obj\Debug\net6.0\DelegatGenerics.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\obj\Debug\net6.0\DelegatGenerics.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\obj\Debug\net6.0\refint\DelegatGenerics.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\obj\Debug\net6.0\DelegatGenerics.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\obj\Debug\net6.0\DelegatGenerics.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\DelegatGenerics\DelegatGenerics\obj\Debug\net6.0\ref\DelegatGenerics.dll
